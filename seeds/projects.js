@@ -22,7 +22,7 @@ exports.seed = async function(knex) {
       id: 3, 
       project_name: 'Industry project backend (hackathon)', 
       repo_link: "https://github.com/AhmedSomaan/industry-project-be", 
-      description: "Our solution to getting Roku more subscribers"
+      description: ""
     },
     {
       id: 4, 
